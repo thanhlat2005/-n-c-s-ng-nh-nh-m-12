@@ -5,7 +5,9 @@
 ## 🎮 Đề tài: Game Caro Console
 
 ---
-
+## 🛠 Công nghệ sử dụng: Game Caro Console
+**C++**
+---
 ### 👥 Thành viên nhóm:
-- **Nguyễn Thanh Lạt**
+**Nguyễn Thanh Lạt**
 ---
