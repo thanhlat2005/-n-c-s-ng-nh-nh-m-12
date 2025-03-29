@@ -1,4 +1,4 @@
-# ĐỒ ÁN CƠ SỞ NGÀNH - NHÓM 12 
+# ĐỒ ÁN CƠ SỞ NGÀNH CNTT - NHÓM 12 
 ### Khoa Công Nghệ Thông Tin - Học Viện Hàng Không Việt Nam  
 
 
