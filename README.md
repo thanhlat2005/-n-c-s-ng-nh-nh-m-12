@@ -5,7 +5,7 @@
 ## 🎮 Đề tài: Game Caro Console
 
 ---
-## 🛠 Công nghệ sử dụng: Game Caro Console
+## 🛠 Công nghệ sử dụng:
 **C++**
 ---
 ### 👥 Thành viên nhóm:
