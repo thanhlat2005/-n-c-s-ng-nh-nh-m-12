@@ -7,8 +7,10 @@
 
 ## 🛠 Công nghệ sử dụng:
 **C++**
+
 ---
 
 ### 👥 Thành viên nhóm:
 **Nguyễn Thanh Lạt**
+
 ---
