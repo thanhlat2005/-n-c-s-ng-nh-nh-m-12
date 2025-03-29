@@ -1,12 +1,8 @@
 # ĐỒ ÁN CƠ SỞ NGÀNH CNTT - NHÓM 12
-### Khoa Công Nghệ Thông Tin - Học Viện Hàng Không Việt Nam
----
+### Khoa Công Nghệ Thông Tin - Học Viện Hàng Không Việt Nam  
 
-## 🎮 Đề tài: Game Caro C++ Console
----
 
-## 🛠 Công nghệ sử dụng:
-**C++**
+## 🛒 Đề tài: Game Caro C++ Console
 
 ---
 
@@ -14,3 +10,6 @@
 **Nguyễn Thanh Lạt**
 
 ---
+
+### 🛠 Công nghệ sử dụng
+**C++**
