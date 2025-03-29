@@ -3,7 +3,6 @@
 
 
 ## 🛒 Đề tài: Game Caro C++ Console
-
 ---
 
 ### 👥 Thành viên nhóm:
